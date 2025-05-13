@@ -41,4 +41,4 @@ namespace CircleMovementApp
                 X += moveStep;
         }
     }
-}
+}// Обновлено для лабораторной 4
